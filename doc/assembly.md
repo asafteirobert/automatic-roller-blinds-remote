@@ -38,7 +38,7 @@ Or simply order the it from this link: [https://www.pcbway.com/project/shareproj
 
 3. Remove the regulator and LEDs from the Arduino. This is required for the low power battery operation
 4. Remove the switch.
-<p><img src="Arduino-modifications.jpg" width="400"/></p>
+<p><img src="Arduino-modifications.JPG" width="400"/></p>
 
 5. Open this project in Platform IO, compile and upload it. You will need a USB serial adapter. After assembly it will be difficult to access the programming pins. Alternatively, you can solder a small programming connector.
 6. Solder the pin headers to the arduino. Make sure you have the correct number of pins. Make sure the pins are facing the side with the components. Because of the compact design, the pins can't protrude more than 1mm from the bottom side. If necessary, solder from the other side.
@@ -49,7 +49,7 @@ Or simply order the it from this link: [https://www.pcbway.com/project/shareproj
 <p><img src="arduino-to-board-soldered.jpg" width="550"/></p>
 
 9. Solder the OLED module. The spacing is very tight so I added some insulation to make sure these components don't touch. Add a spacer so the screen is secure and parallel to the board.
-<p><img src="oled-insulation.JPG" width="500"/><img src="oled-installed.jpg" width="500"/></p>
+<p><img src="oled-insulation.JPG" width="500"/><img src="oled-installed.JPG" width="500"/></p>
 
 10. Solder a pair of wires to the power pins on the board and route them between the 2 boards
 <p><img src="power-wire.jpg" width="400"/></p>
@@ -74,4 +74,4 @@ Or simply order the it from this link: [https://www.pcbway.com/project/shareproj
 
 18. Test that it works.
 17. Close the cover, glue the cover if necessary, glue the 3D printed buttons.
-<p><img src="final.jpg" width="550"/></p>
+<p><img src="final.JPG" width="550"/></p>
