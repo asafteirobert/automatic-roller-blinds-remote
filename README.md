@@ -4,7 +4,7 @@ Built around an Arduino pro mini.
 
 It has a battery life of a few months.
 
-<p><img src="doc/final.jpg" width="550"/></p>
+<p><img src="doc/final.JPG" width="550"/></p>
 
 ## How to use it
 
