@@ -27,7 +27,7 @@ The PCB needs to be 0.8mm thick(or similar).
 
 You can find the schematic and PCB in the `schematic` folder. It contains an EasyEDA project and Gerber files.
 
-Or simply order the it from this link: [https://www.pcbway.com/project/shareproject/](https://www.pcbway.com/project/shareproject/)
+Or simply order the it from this link: https://www.pcbway.com/project/shareproject/Automatic_roller_blinds_small_remote.html
 
 
 ## Steps
